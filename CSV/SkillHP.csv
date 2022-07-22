@@ -1,0 +1,8 @@
+level,levelUpExp,maxHP
+int,int,int
+1,3,3
+2,7,4
+3,12,5
+4,16,6
+5,20,7
+6,0,8
